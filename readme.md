@@ -48,6 +48,6 @@ When I'm not writing code or studying for exams, you can find me doing these:
 
 ---
 
-## 📈 My Goal for This Semester 
+## My Goal for This Semester 
 * **Master Git:** Learn and understand the basics and how to handle branches and merge the codes without errors.
 * **Build a solid Project:** Complete my core phase projects to build a strong portfolio.  
