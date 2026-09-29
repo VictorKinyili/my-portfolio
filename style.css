@@ -172,13 +172,13 @@ main > section:nth-child(2) span {
     font-size: 0.88rem !important;
 }
 
-main > section:nth-child(3) > div {
+.projects-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 1.25rem;
 }
 
-main > section:nth-child(3) > div > div {
+.projects-grid > div {
     display: flex;
     flex-direction: column;
     min-height: 16rem;
@@ -191,7 +191,7 @@ main > section:nth-child(3) > div > div {
     transition: transform 180ms ease, box-shadow 180ms ease;
 }
 
-main > section:nth-child(3) > div > div:hover {
+.projects-grid > div:hover {
     transform: translateY(-4px);
     box-shadow: var(--shadow) !important;
 }
@@ -211,7 +211,7 @@ section a {
     text-underline-offset: 0.2em;
 }
 
-main > section:nth-child(3) a {
+.projects-grid a {
     margin-top: auto;
 }
 
@@ -313,7 +313,7 @@ footer a:focus-visible {
         margin-bottom: 3rem;
     }
 
-    main > section:nth-child(3) > div,
+    .projects-grid,
     main > section:nth-child(4) ul {
         grid-template-columns: 1fr;
     }
