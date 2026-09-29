@@ -133,13 +133,6 @@ section h2 {
     line-height: 1.15;
 }
 
-section h2::after {
-    width: 3.5rem;
-    height: 2px;
-    background: var(--accent);
-    content: "";
-}
-
 main > section:first-child,
 main > section:nth-last-child(2) {
     padding: clamp(1.5rem, 4vw, 2.5rem) !important;
