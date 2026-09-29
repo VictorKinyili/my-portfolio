@@ -1,9 +1,9 @@
 # Hi, i'm [Victor Kinyili]
 ### Software Engineering Student at [Moringa School]
 
-[![Github](https://shields.io)](https://github.com[VictorKinyili])
-[![LinkedIn](https://shield.io)](https://www.linkedin.com/in/victor-kinyili-8a133b43b/)
-[![Email](https://shield.io)](mailto:vickypk455@gmail.com?subject=Portfolio%20Inquiry)
+[![GitHub](https://img.shields.io/badge/GitHub-VictorKinyili-181717?logo=github&logoColor=white)](https://github.com/VictorKinyili)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-kinyili-8a133b43b/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:vickypk455@gmail.com?subject=Portfolio%20Inquiry)
 
 ---
 
