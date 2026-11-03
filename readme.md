@@ -21,12 +21,12 @@ I am a first-year Software Engineering student passionate about learning how to 
 
 ## Student Projects
 
-### my First Repository
+### Flex-box
 I managed to create my first repo and used .hmtl and .css to write my code within the repo. 
 * *Concepts Used:* HTML, CSS, VS Code, Git and Github.
 * *Links:* [GitHub Repo](https://github.com/VictorKinyili/flex-box.git)
 
-### My First Forked Repository
+### Html-travel-blog-lab
 My very first understanding of Git and Github to create and fork my first repository, where i learned how to clone, add my content to the repository.
 * *Concepts Used:* HTML, VS Code, Git and Github.
 * *Links:* [Github Repo](https://github.com/VictorKinyili/html-travel-blog-lab.git)
